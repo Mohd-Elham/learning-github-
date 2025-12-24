@@ -1,6 +1,6 @@
 public class Main{
   public static void main(String[] args) {
-    final String branch = "DEV";
+    final String branch = "QA";
     System.out.printf(" THIS IS FROM %s BRANCH", branch);
   }
 }
